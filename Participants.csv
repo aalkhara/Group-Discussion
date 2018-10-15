@@ -1,0 +1,16 @@
+Group,Partipant,Offline,Online,Gender,Age,Natinality,Eduction
+G1,P1,Q1,Q2,Female,21-29,American,Masters
+G1,P2,Q1,Q2,Male,30-29,Saudi,Masters
+G1,P3,Q1,Q2,Male,21-29,British,Masters
+G2,P4,Q2,Q1,Female,21-29,Lithuanian,High School
+G2,P5,Q2,Q1,Female,30-39,Italian,Masters
+G2,P6,Q2,Q1,Male,21-29,Saudi,Masters
+G2,P7,Q2,Q1,Male,21-29,British,Masters
+G3,P8,Q1,Q2,Female,21-29,Polish,High School
+G3,P9,Q1,Q2,Male,30-39,Saudi,Masters
+G3,P10,Q1,Q2,Male,21-29,Indian,Undergraduate
+G4,P11,Q2,Q1,Female,30-39,Egyptian,Masters
+G4,P12,Q2,Q1,Male,30-39,Saudi,Masters
+G4,P13,Q2,Q1,Male,30-39,Nigerian,Masters
+G4,P14,Q2,Q1,Male,30-39,Saudi,Masters
+G4,P15,Q2,Q1,Male,21-29,Canadian,High School
